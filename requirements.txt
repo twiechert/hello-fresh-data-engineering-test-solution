@@ -1,0 +1,7 @@
+pandas==2.0.1
+pyspark
+pytest
+pyarrow
+cython==0.29.21
+numpy
+chispa
